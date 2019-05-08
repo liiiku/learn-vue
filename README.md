@@ -10,3 +10,4 @@ Vue.js 高仿饿了么外卖 App 课程源码，课程地址： http://coding.im
 
 代码一上来就看还是很多的，这里可以先看`src`目录下的`components`下的`header`这个文件，这个就是页面中头部，对应的截图如下：
 
+![22_26_39__05_08_2019](https://user-images.githubusercontent.com/21993582/57383016-9f419880-71e0-11e9-9eda-9af0dd5519cb.jpg)
